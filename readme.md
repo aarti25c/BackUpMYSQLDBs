@@ -1,7 +1,7 @@
 
 ## About
 
-On Signle Click Backup Multiple Mysql Database
+On Single Click Backup Multiple Mysql Database
 
 ## Installation
 
